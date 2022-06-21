@@ -1,0 +1,94 @@
+[
+  {
+    "model": "product.Product",
+    "pk": 1,
+    "fields": {
+      "name": "Iphone",
+      "code": "xas45",
+      "price": "15",
+      "currency": "USD"
+    }
+  },
+   {
+    "model": "product.Product",
+    "pk": 2,
+    "fields": {
+      "name": "Samsung",
+      "code": "xas45",
+      "price": "153",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 3,
+    "fields": {
+      "name": "Apple",
+      "code": "xas45",
+      "price": "115",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 4,
+    "fields": {
+      "name": "Sony",
+      "code": "xas45",
+      "price": "124",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 5,
+    "fields": {
+      "name": "Laptop",
+      "code": "xas45",
+      "price": "10",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 6,
+    "fields": {
+      "name": "Hp",
+      "code": "xas45",
+      "price": "158",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 7,
+    "fields": {
+      "name": "Dell",
+      "code": "xas45",
+      "price": "195",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 8,
+    "fields": {
+      "name": "Mouse",
+      "code": "xas45",
+      "price": "1785",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 9,
+    "fields": {
+      "name": "Buds",
+      "code": "xas45",
+      "price": "35",
+      "currency": "USD"
+    }
+  }, {
+    "model": "product.Product",
+    "pk": 10,
+    "fields": {
+      "name": "Glass",
+      "code": "xas45",
+      "price": "95",
+      "currency": "USD"
+    }
+  }
+]

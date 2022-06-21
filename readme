@@ -1,0 +1,7 @@
+
+
+
+To load the default data from fixtures, run following commands.
+
+python manage.py loaddata product.json
+python manage.py loaddata product_images.json
