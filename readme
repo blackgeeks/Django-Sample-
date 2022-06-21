@@ -1,4 +1,5 @@
-
+pip install -r requirements.txt
+python man  runserver
 
  docker build -t teamblackgeeks/test_project .
  docker run -p 8050:8000 teamblackgeeks/test_project
