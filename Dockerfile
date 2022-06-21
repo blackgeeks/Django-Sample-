@@ -10,6 +10,4 @@ ADD . /app
 EXPOSE 8000
 #CMD exec python manage.py runserver
 #
-RUN chmod +x start.sh
-
-CMD ["start.sh"]
+CMD python manage.py runserver
