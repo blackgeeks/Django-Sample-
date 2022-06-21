@@ -1,7 +1,7 @@
+
+
  docker build -t teamblackgeeks/test_project .
-  docker run -p 8050:8000 teamblackgeeks/test_project
-
-
+ docker run -p 8050:8000 teamblackgeeks/test_project
 
 To load the default data from fixtures, run following commands.
 
