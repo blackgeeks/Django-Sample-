@@ -8,3 +8,6 @@ To load the default data from fixtures, run following commands.
 
 python manage.py loaddata product.json
 python manage.py loaddata product_images.json
+
+
+Plus, if you want add procuts, I have write a fxtures for now to adding sample products. That is just for now. 
